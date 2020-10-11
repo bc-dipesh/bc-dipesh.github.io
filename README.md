@@ -1,3 +1,4 @@
 # bc-dipesh.github.io
 
-My Portfolio website build.
+Head over to my portfolio by clicking the following link.
+https://bc-dipesh.github.io/
